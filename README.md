@@ -1,2 +1,2 @@
 # gridiron
-PragmaticStatic
+v1.0 Lexicon
